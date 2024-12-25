@@ -1,4 +1,4 @@
-# spotify-end-to-end-data-engineering-project
+# spotify-data-engineering-project
 ETL pipeline using AWS: Extracts data from Spotify API with AWS Lambda, stores raw/processed data in S3, infers schema with Glue Crawler and catalogs it in AWS Glue. Analyze structured data using Athena and automate via CloudWatch triggers.
 ## Introduction :
 In this project, we build an ETL (Extract, Transform, Load) pipeline using the Spotify API on AWS. The pipeline extracts data from the Spotify API, transforms it into the required format, and stores it in an AWS data store for analysis.
